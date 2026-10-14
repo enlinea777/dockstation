@@ -1,3 +1,7 @@
+Este projecto murio en 2019
+aconsejo usar este: [DockControl](https://github.com/enlinea777/DockControlTauri)
+
+
 # Developing with Docker has never been so easy and convenient
 
 ## Product
